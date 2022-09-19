@@ -1,0 +1,42 @@
+import 'package:arm_chat/localization/translation_keys.dart';
+
+const enUs = <String, String>{
+  TranslationKeys.createAccount: "Create an ARM One Account",
+  TranslationKeys.provideDetails: "Provide the details below",
+  TranslationKeys.firstName: "First name",
+  TranslationKeys.invalidFirstname: "Invalid First name",
+  TranslationKeys.lastName: "Last name",
+  TranslationKeys.invalidLastname: "Invalid Last name",
+  TranslationKeys.email: "Email",
+  TranslationKeys.invalidEmail: "Invalid Email",
+  TranslationKeys.password: "Password",
+  TranslationKeys.required: "Required",
+  TranslationKeys.invalidPassword: "Invalid Password",
+  TranslationKeys.wakePassword: "Password is weak",
+  TranslationKeys.confirmPassword: "Confirm Password",
+  TranslationKeys.passwwordMismatch: "Password not the same",
+  TranslationKeys.continueWord: "Continue",
+  TranslationKeys.alreadyHaveAccount: "Already have an account? ",
+  TranslationKeys.login: "Login",
+  TranslationKeys.inputDetailsBelow: "Input your details below to continue",
+  TranslationKeys.dontHaveAccount: "Don't have an account? ",
+  TranslationKeys.signUp: "Sign up",
+  TranslationKeys.iHaveAccount: "I have an ARM account",
+  TranslationKeys.armChat: "ARM Chat",
+  TranslationKeys.typeMessageHere: "Type your message here...",
+  TranslationKeys.send: "Send",
+  TranslationKeys.illustratorOneTitle: "We're excellent \nmoney managers",
+  TranslationKeys.illustratorOneMsg:
+      "Managing your money is what we \ndo and we are really good at it",
+  TranslationKeys.illustratorTwoTitle: "We deliver excellent \nreturns",
+  TranslationKeys.illustratorTwoMsg:
+      "Take your pick from an array of investment \nofferings and enjoy steady profits",
+  TranslationKeys.illustratorThreeTitle: "Your money is in \ngood hands",
+  TranslationKeys.illustratorThreeMsg:
+      "The safety and growth of your \nwealth is our priority",
+  TranslationKeys.yourLanguage: "Your Language",
+  TranslationKeys.otherLanguage: "Other Languages",
+  TranslationKeys.languageSettings: "Language Settings",
+  TranslationKeys.success: "Success",
+  TranslationKeys.languageSettingsUpdated: "Language settings updated",
+};
